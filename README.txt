@@ -1,1 +1,2 @@
-test222
+NIM=535250079
+NAMA=Kenzie Agustin
